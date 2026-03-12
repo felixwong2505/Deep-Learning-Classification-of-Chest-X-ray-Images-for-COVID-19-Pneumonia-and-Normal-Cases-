@@ -1,0 +1,2 @@
+# Deep-Learning-Classification-of-Chest-X-ray-Images-for-COVID-19-Pneumonia-and-Normal-Cases-
+This project develops a deep learning model based on ResNet18 to classify chest X-ray images into COVID-19, pneumonia, and normal categories. The study compares baseline cross-entropy, class weighting, and focal loss to address class imbalance. Model performance is evaluated using accuracy, confusion matrices, and error analysis.
